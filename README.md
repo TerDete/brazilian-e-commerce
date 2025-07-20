@@ -40,11 +40,11 @@ Raw CSV (local)
 - Visualization with Power BI Desktop
 
 ## 📈 Visualizations
-1. Top 10 Product Categories by Order Count
+1. Monthly Revenue in 2018
 
-2. Monthly Order Trend Over Time
+2. Top 10 Best-Selling Products
 
-3. Payment Method Distribution
+3. Revenue Share by Product
 
 ## 🛠️ Tools and Technologies
 - HDFS
