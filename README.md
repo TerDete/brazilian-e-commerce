@@ -10,8 +10,6 @@ It is divided into 2 roles:
 - 📊 **Data Analyst (on Windows)**: 
 - Visualize using Power BI
 
----
-
 ## 🧱 Project Architecture
 
 ```bash
@@ -25,7 +23,6 @@ Raw CSV (local)
     ↓ 
 [Power BI / Python - Visualization]
 
----
 
 ## 📂 Project Structure
 ├── Data/               - Dataset files
