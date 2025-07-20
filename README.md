@@ -42,9 +42,15 @@ Raw CSV (local)
 ## 📈 Visualizations
 1. Monthly Revenue in 2018
 
+![Monthly Revenue](Visualizations/monthly_revenue_2018.png)
+
 2. Top 10 Best-Selling Products
 
-3. Revenue Share by Product
+![Top 10 Products](Visualizations/top_10_best_selling_products.png)
+
+3. Revenue by Product
+
+![Revenue by_Product](Visualizations/product_revenue_share.png)
 
 ## 🛠️ Tools and Technologies
 - HDFS
