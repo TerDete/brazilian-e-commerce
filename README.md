@@ -58,4 +58,5 @@ Raw CSV (local)
 - PostgreSQL
 - Power BI
 - Jupyter Notebook
+- Linux
 - Git
