@@ -13,18 +13,6 @@ It is divided into 2 roles:
 
 ## 🧱 Project Architecture
 
-```bash
-Raw CSV (local) 
-    ↓
-[HDFS - Data Lake] 
-    ↓ (clean & transform)
-[Spark] 
-    ↓ 
-[PostgreSQL - Data Warehouse] 
-    ↓ 
-[Power BI - Visualization]
-```
-
 ![Architecture](Images/archi.png)
 
 ## 📂 Project Structure
