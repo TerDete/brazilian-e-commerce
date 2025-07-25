@@ -25,6 +25,8 @@ Raw CSV (local)
 [Power BI - Visualization]
 ```
 
+![Architecture](Images/archi.png)
+
 ## 📂 Project Structure
 ```bash
 ├── Data/               - Dataset files
