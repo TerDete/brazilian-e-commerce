@@ -18,6 +18,7 @@ It is divided into 2 roles:
 ## 📂 Project Structure
 ```bash
 ├── Data/               - Dataset files
+├── Images/             - Include images
 ├── Notebooks/          - Jupyter Notebooks for processing (PySpark)
 ├── Visualizations/     - Charts and dashboards (Power BI)
 └── README.md           
