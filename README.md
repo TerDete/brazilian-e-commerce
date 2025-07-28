@@ -1,5 +1,10 @@
 # Brazilian E-commerce Big Data Project
 
+🔍 **Project Description**
+- Built an ETL pipeline to process e-commerce transaction data, handling over **100,000 records** across multiple datasets.
+- Collected raw data and stored it in **HDFS**, then processed the data using **Spark (PySpark)**, and finally loaded the clean data into **PostgreSQL**.
+- The final dataset is ready for **analysis and reporting**.
+
 This project simulates a real-world Big Data pipeline built on top of the [Brazilian E-commerce dataset (Olist)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).  
 It is divided into 2 roles:
 
